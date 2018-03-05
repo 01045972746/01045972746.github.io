@@ -1,5 +1,6 @@
 <div id="sidebar">
   <header>
+    <img src="{{ site.baseurl }}/assets/image/너굴맨.jpg" />
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ site.baseurl }}/">
         {% unless page.url == "/" %}
@@ -12,10 +13,7 @@
   </header>
   {% include sidebar-nav-links.html %}
 
-  {% if site.version %}
-    <span class="site-version">Currently v{{ site.version }}</span>
-  {% endif %}
-
+  
   {% include sidebar-icon-links.html %}
   {% include copyright.html %}
 </div>
