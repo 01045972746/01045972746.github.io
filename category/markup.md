@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Vuejs
+title: Markup
 ---
 
 Another sample category page.
