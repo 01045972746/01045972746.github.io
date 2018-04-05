@@ -5,9 +5,46 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  도대체 코딩은 언제 끝날 것인가
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+`2011. 03. 02` : 건국대학교 인터넷 미디어 공학부 입학  
+`2011. 03. ~` : 최초의 코딩 시작 `C 언어`  
+`2011. 09. ~` : C++, Web 입문 `HTML, C++, CSS`  
+`2012. 03. ~` : 그래픽스 입문 `OpenGL`, 자바 입문 `JAVA`  
+`2012. 09. ~` : 소프트웨어에 대한 의구심 => 밥 벌어먹고 살 수 있을까  
+`2013. 01. 15` : 군대감 ㅜㅜ  
+`2014. 10. 14` : 전역함 !!!  
+`2014. 11. 01` : 코딩이 너무 하기 싫어서 편의점 알바 한번 해봄  
+`2015. 03. ~` : **정신 차림**, 일단 해보고 딴거 하기로 결정 `WebGL`  
+`2015. 09. ~` : **NVIDIA** 가 너무 가고 싶어서 졸작을 그래픽스 관련한 것으로 결정 `Unity, C#`  
+`2015. 11. ~` : 우연하게 선배들의 권유로 `Spring Framework` 써봄  
+`2016. 06. 16` : 졸작 끝  
+`2016. 07. 01` : CDNetworks 인턴  
+<p class="message">
+  업무: 영업, 테스팅<br>
+  기간: 2016. 12. 31 까지
+</p>
+
+`2016. 08. ~` : 진짜 코딩 시작
+<p class="message">
+  업무: 코딩<br>
+  Spring Framework(egov), MySQL
+</p>
+
+`2016. 10. ~` : 의외로 퍼포먼스가 나와서 인정받음  
+`2016. 11. xx` : 정규직 권고 받음  
+`2017. 01. 01` : CDNetworks 정규직 입사  
+`2017. 02. ~` : 신기술 구경하러 코엑스만 다님  
+<p class="message">
+  Docker<br>
+  Java 8<br>
+</p>
+
+`2017. 03. ~` : 기존의 DB랑 API가 속도가 안나와서 바꿈
+<p class="message">
+  DB : Table Relation 재구성<br>
+  API : RESTful 로 재구성<br>
+</p>
+
+`2017. 07. 01` : 연구실 차출  
