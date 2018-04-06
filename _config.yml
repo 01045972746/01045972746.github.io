@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Brownie
-tagline:          '깃 불로구'
-description:      '너굴리'
+tagline:          'JONGBLOG'
+description:      ''
 url:              https://01045972746.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
