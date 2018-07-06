@@ -31,5 +31,11 @@ Freestyle project를 눌러서 새 프로젝트를 생성합니다.
 ![placeholder](/assets/image/Jenkins10.png "Jenkins10")  
 설정의 중간쯤, `소스 코드 관리` 부분에 **`Git`**을 누릅니다.  
 
-# Credentials 설정하기
-
+# Credentials 설정하기 (1) HTTPS 주소
+![placeholder](/assets/image/Jenkins11.png "Jenkins11")  
+`Add` 버튼을 눌러서,  
+![placeholder](/assets/image/Jenkins12.png "Jenkins12")  
+**`Username`** 부분에는 깃허브 아이디를,  
+**`Password`** 부분에는 깃허브 비밀번호를 넣습니다.
+![placeholder](/assets/image/Jenkins13.png "Jenkins13")  
+다음과 같이 빨간 글씨가 없다면 깃허브 연동에 성공한 것입니다.
